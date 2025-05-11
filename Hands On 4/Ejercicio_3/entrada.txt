@@ -1,0 +1,6 @@
+func f();
+func g(x, y);
+f();
+g(a);
+g(a, b);
+h();

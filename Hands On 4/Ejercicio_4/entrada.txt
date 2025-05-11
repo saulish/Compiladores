@@ -1,0 +1,17 @@
+
+{
+	int a;
+	int b;
+	{
+		b;
+		c;
+		{
+			int c;
+			b;
+		}
+		a;
+	}
+	d;
+}
+int d;
+d;
